@@ -736,7 +736,7 @@ if __name__ == "__main__":
     params = {
         # optimum asset index
         "ARG_OPT_ASSET_INDEX": 0,
-        # fee wallet address (to collect fee at the end of each governance)
+        # fee wallet address 
         "ARG_FEE_ADDRESS": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAY5HFKQ"
     }
 
